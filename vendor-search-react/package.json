@@ -1,3 +1,10 @@
+"homepage": "https://streetwiseai.github.io/vendor-finder",
+"scripts": {
+  "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+}
+
+
 {
   "name": "vendor-search-react",
   "version": "1.0.0",
